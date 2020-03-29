@@ -5,6 +5,7 @@
 layout: home
 ---
 
+# Home
 ## Prepared Spells (10)
 
 - [Burning Hands](l1-spells.html#Burning Hands)
