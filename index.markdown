@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
 
-# Home
 ## Prepared Spells (10)
 
 - [Burning Hands](l1-spells.html#Burning Hands)
